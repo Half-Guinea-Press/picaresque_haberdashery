@@ -1,4 +1,5 @@
-site_name: The Picaresque Haberdashery
+site_name: 
+#The Picaresque Haberdashery
 theme:
     features:
  #   - toc.integrate
