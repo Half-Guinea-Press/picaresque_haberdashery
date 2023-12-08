@@ -1,8 +1,8 @@
 site_name: The Picaresque Haberdashery
 theme:
     features:
-    - toc.integrate
- #   - navigation.top
+ #   - toc.integrate
+    - navigation.top
     font:
        text: Rufina
        code: Red Hat Mono
